@@ -15,7 +15,7 @@
 
 ![image](https://user-images.githubusercontent.com/130223584/233579324-30146227-a6bb-46a7-963f-b7f8ddf59c27.png)
 
-Установка скрипта:
+Установка и использование скрипта:
 1) Установить Python 3.8
 2) Открыть консоль в папке с скриптом и прописать туда pip install -r requirements.txt
 3) Прописать в консоли main.py
